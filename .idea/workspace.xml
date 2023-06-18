@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c94a51-7d92-469c-b6f0-4f7f2919b37a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="97c94a51-7d92-469c-b6f0-4f7f2919b37a" name="Changes" comment="домашнее задание 6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d848899c-ae3c-4264-a76e-9ed0fd8d8c9a" />
+        <option name="url" value="https://github.com/vsosonna/Homework6.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2RNOhlxMbROUchQNF7WIjrJKdqP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -61,11 +69,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687087196066</updated>
-      <workItem from="1687087197090" duration="4680000" />
+      <workItem from="1687087197090" duration="8656000" />
     </task>
+    <task id="LOCAL-00001" summary="домашнее задание 6">
+      <created>1687097887178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687097887178</updated>
+    </task>
+    <task id="LOCAL-00002" summary="домашнее задание 6">
+      <created>1687097929026</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687097929026</updated>
+    </task>
+    <task id="LOCAL-00003" summary="домашнее задание 6">
+      <created>1687097986083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687097986083</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="домашнее задание 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="домашнее задание 6" />
   </component>
 </project>

@@ -8,6 +8,9 @@ public class Main {
         task5();
         task6();
         task7();
+        task8();
+        task9();
+        task10();
     }
 
     public static void task1() {
@@ -36,7 +39,7 @@ public class Main {
 
     public static void task5() {
         for (int g = 1904; g <= 2096; g = g + 4) {
-            System.out.println("Высокосный год " +g);
+            System.out.println("Высокосный год " + g);
         }
     }
 
@@ -50,6 +53,35 @@ public class Main {
         for (int w = 1; w <= 512; w = w * 2) {
             System.out.println(w);
         }
+    }
 
+    public static void task8() {
+        int savingMonth = 29000;
+        int total = 0;
+        for (int y = 0; y < 12; y++) {
+            total = total + savingMonth;
+        }
+        System.out.println("Cумма накоплений за год равна " + total + " рублей");
+    }
+
+    public static void task9() {
+        int savingMonth = 29000;
+        double totalPercent = 0;
+        for (int q = 0; q < 12; q++) {
+            totalPercent = totalPercent+ totalPercent /100;
+            totalPercent = totalPercent + savingMonth;
+
+        System.out.println("Месяц  "  + q + ", сумма накоплений равна ,%.2f," +totalPercent+" рублей");}
+        System.out.println(totalPercent);
+    }
+
+    public static void task10() {
+    for (int a = 2; a <= 2; a++) {
+        for (int s = 1; s <= 10; s++) {
+            System.out.println(a + " x " + s + " = " + a * s);
+        }
+        System.out.println();
+    }
 }
+
 }
