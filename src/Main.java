@@ -71,7 +71,7 @@ public class Main {
             totalPercent = totalPercent+ totalPercent /100;
             totalPercent = totalPercent + savingMonth;
 
-        System.out.println("Месяц  "  + q + ", сумма накоплений равна ,%.2f," +totalPercent+" рублей");}
+        System.out.println("Месяц  "  + q + ", сумма накоплений равна " +totalPercent+" рублей");}
         System.out.println(totalPercent);
     }
 
